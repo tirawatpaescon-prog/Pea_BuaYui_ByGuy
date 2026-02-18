@@ -1,0 +1,7 @@
+{
+  "name": "PEA Explorer Pro",
+  "description": "Advanced field tool for electricity user management with AI route optimization and interactive mapping.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
