@@ -34,7 +34,7 @@ const MASTER_ID_กฟส_ประทาย = [
   '2PACX-1vRK6Wkf6Ji5YsUmUiAQms9hDvCUzC9jcWdOL1QcPstz4Q8cP6rhsjmWIV7LmkAAeA',
   '2PACX-1vS0yq-K1GHyME70Gcz4KHQfFaf-TF-C39W2Ljes59wMBEKS45Th_PdKEAu4_WFLag'
 ];
-const MASTER_ID_กฟส_บัวใหญ่ = [
+const MASTER_ID_กฟส_บัวใหญ่  = [
   '2PACX-1vSz1bTQAU4Id5jeLff6iQcQoaajd24kD7v-fHS1iaZFmEpIny644oANqGR_vMasvQ',
   '2PACX-1vQl_4xgQ7ac1f8Il-BVEm0FGtPXO-4R_xyIh0SA_DkzguFcXy2gkd3NRA8XY8dVlg',
   '2PACX-1vRWKN19LcKHl3PN6rt5e_rFweHLobKgpLTUAIwbJZyCFIWPdI1r-BnalMadRh7keQ',
@@ -44,7 +44,12 @@ const MASTER_ID_กฟส_บัวใหญ่ = [
   '2PACX-1vQnKZYHDmgyxStgQ4yWvZKZayyfKH_uT4m5gzeuHAEtsdp__KOrkNjzlwDbfep4hA',
   '2PACX-1vQZht7zBuR8deZs8XxCPhem5yMn8qUPZvNpA0rKtblByjvsFyAN30LWb0AA7My_kQ',
   '2PACX-1vSnxVJqiyuJJvHt_WLOsl8kNsPZ9m74Ju3AQ2HdjeJ8DQILxcZt6KL11o_T0-RFKw',
-  '2PACX-1vSYUgZ7B71KX6MKc8gkgLEIB4Y3wbmij83VUuM7gxE891qk8o6Jwt215peZjAV-cw'
+  '2PACX-1vSYUgZ7B71KX6MKc8gkgLEIB4Y3wbmij83VUuM7gxE891qk8o6Jwt215peZjAV-cw',
+  '2PACX-1vRdr2kewom7cRB7zL784O0OSxmPzn8g-Nuptuf3trlHPdA30e6ux7K_KT0cG62NyQ',
+  '2PACX-1vTlhORhtlpaDcyBye2TtMxKaDC_-RKcQkOUR0v8JGGFXd1F00Dx1EjfaKF4Wpmpww',
+  '2PACX-1vRYQh7b5RrtCN126jDzmZZ9w_UZgnSLgzBz6zbJreOxFxYNEwqSeC9YpCmgSjoHew',
+  '2PACX-1vTQh_hv0MbCpaDVB5SLMxJ9E_cHinuVYwZJOCYM_fydgVgiOnONKt8AI45wymjqGQ',
+  '2PACX-1vS4rxwHbRV62Hbv2SwipOpfppd_L3vTRRU8_Zur_MgB8hPRCK4NAtHYBXcjdkvtuQ'
 ];
 
 const MASTER_ID_กฟส_โนนแดง = [
@@ -66,7 +71,12 @@ const DATA_SOURCES: Record<BranchName, DataSheet[]> = {
     { id: MASTER_ID_กฟส_บัวใหญ่[6], gid: '118160825' },
     { id: MASTER_ID_กฟส_บัวใหญ่[7], gid: '1040186103' },
     { id: MASTER_ID_กฟส_บัวใหญ่[8], gid: '1652679163' },
-    { id: MASTER_ID_กฟส_บัวใหญ่[9], gid: '474069767' }
+    { id: MASTER_ID_กฟส_บัวใหญ่[9], gid: '474069767' },
+    { id: MASTER_ID_กฟส_บัวใหญ่[10], gid: '905999807' },
+    { id: MASTER_ID_กฟส_บัวใหญ่[11], gid: '792286290' },
+    { id: MASTER_ID_กฟส_บัวใหญ่[12], gid: '463993380' },
+    { id: MASTER_ID_กฟส_บัวใหญ่[13], gid: '1367131256' },
+    { id: MASTER_ID_กฟส_บัวใหญ่[14], gid: '761436162' }
   ],
   'กฟส.ประทาย': [
     { id: MASTER_ID_กฟส_ประทาย[0], gid: '283854068' },
